@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Overview
-# The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The second part is done to determine if there is any bias toward favorable reviews from Vine members in the dataset. I chose the category of "Beauty" to analyze all the reviews.
+- The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The second part is done to determine if there is any bias toward favorable reviews from Vine members in the dataset. I chose the category of "Beauty" to analyze all the reviews.
 ## Results
 # How many Vine reviews and non-Vine reviews were there?
 -  There are 647 Total Vine reviews in the category of beauty.
