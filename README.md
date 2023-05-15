@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Overview
-- The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The second part is done to determine if there is any bias toward favorable reviews from Vine members in the dataset. I chose the category of "Beauty" to analyze all the reviews.
+- The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The second part is done to determine if there is any bias toward favorable reviews from Vine members in the dataset. I chose the category of "Beauty." The initial ETL (Extract, Transform, Load) portion of the project was conducted using AWS, postgresql, and PySpark in Google Colab. The data analysis segment was conducted using PySpark and Google Colab.
 ## Results
 # How many Vine reviews and non-Vine reviews were there?
 -  There are 647 Total Vine reviews in the category of beauty.
@@ -20,4 +20,4 @@
 - ![Screen Shot 2022-11-05 at 5 37 52 PM](https://user-images.githubusercontent.com/106174279/200147576-f9f345c3-3c29-48ae-a170-95273e8cabf5.png)
 
 ## Summary
-- The data says that there are more reviews with 5 stars in the non-vine reviews as shown in the percentage of reviews with 5 stars. An additional analysis that would be beneficial would to look at the statistical distribution of the star rating for the vine and non-vine reviews.
+- The data says that there are more reviews with 5 stars in the non-vine reviews as shown in the percentage of reviews with 5 stars. An additional analysis that would be beneficial would to look at the statistical distribution of the star rating for the vine and non-vine reviews. Also, for a more thorough analysis, this same meta-analysis should be conducted across a few different product catagories.
